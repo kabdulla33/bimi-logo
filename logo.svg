@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="1150" viewBox="0 0 1150 1150"> <circle cx="575" cy="575" r="575" fill="#000000"/> <g fill="#FFFFFF"> <!-- Signature "Karim Abdulla" --> <path d="M260 620c40-140 80-260 140-260 45 0 70 40 70 95 0 80-60 150-140 150-20 0-40-5-55-15l-15 30c20 10 45 15 70 15 110 0 190-90 190-185 0-90-55-150-135-150-95 0-150 95-190 230l-35 120h40l20-70zm260-140c0-40 25-70 65-70 35 0 55 20 55 50 0 40-25 70-65 70-35 0-55-20-55-50zm-40 0c0 65 45 110 105 110 80 0 135-65 135-140 0-65-45-110-105-110-80 0-135 65-135 140zm330 140c40-140 80-260 140-260 45 0 70 40 70 95 0 80-60 150-140 150-20 0-40-5-55-15l-15 30c20 10 45 15 70 15 110 0 190-90 190-185 0-90-55-150-135-150-95 0-150 95-190 230l-35 120h40l20-70z"/> <!-- Roofline + window --> <path d="M420 500l140-110 140 110" stroke="#FFFFFF" stroke-width="20" fill="none" stroke-linecap="round" stroke-linejoin="round"/> <rect x="545" y="470" width="60" height="60" fill="#FFFFFF"/> <line x1="575" y1="470" x2="575" y2="530" stroke="#000000" stroke-width="8"/> <line x1="545" y1="500" x2="605" y2="500" stroke="#000000" stroke-width="8"/> <!-- KARIM HOME TEAM text --> <text x="575" y="760" font-family="Arial, sans-serif" font-size="70" fill="#FFFFFF" text-anchor="middle" letter-spacing="4"> KARIM HOME TEAM </text> </g> </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="1150" viewBox="0 0 1150 1150">
+  <circle cx="575" cy="575" r="575" fill="#000000"/>
+  <g fill="#FFFFFF">
+    <!-- Signature "Karim Abdulla" -->
+    <path d="M260 620c40-140 80-260 140-260 45 0 70 40 70 95 0 80-60 150-140 150-20 0-40-5-55-15l-15 30c20 10 45 15 70 15 110 0 190-90 190-185 0-90-55-150-135-150-95 0-150 95-190 230l-35 120h40l20-70zm260-140c0-40 25-70 65-70 35 0 55 20 55 50 0 40-25 70-65 70-35 0-55-20-55-50zm-40 0c0 65 45 110 105 110 80 0 135-65 135-140 0-65-45-110-105-110-80 0-135 65-135 140zm330 140c40-140 80-260 140-260 45 0 70 40 70 95 0 80-60 150-140 150-20 0-40-5-55-15l-15 30c20 10 45 15 70 15 110 0 190-90 190-185 0-90-55-150-135-150-95 0-150 95-190 230l-35 120h40l20-70z"/>
+    
+    <!-- Roofline + window -->
+    <path d="M420 500l140-110 140 110" stroke="#FFFFFF" stroke-width="20" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="545" y="470" width="60" height="60" fill="#FFFFFF"/>
+    <line x1="575" y1="470" x2="575" y2="530" stroke="#000000" stroke-width="8"/>
+    <line x1="545" y1="500" x2="605" y2="500" stroke="#000000" stroke-width="8"/>
+
+    <!-- KARIM HOME TEAM text -->
+    <text x="575" y="760" font-family="Arial, sans-serif" font-size="70" fill="#FFFFFF" text-anchor="middle" letter-spacing="4">
+      KARIM HOME TEAM
+    </text>
+  </g>
+</svg>
